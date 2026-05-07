@@ -4,11 +4,7 @@ public:
     {
         vector<int> ans;
         unordered_map<int,int> mp;
-        int i;
-        for(i=0;i<nums.size();i++)
-        {
-            mp[nums[i]]=i;
-        }    
+        int i;  
         for(i=0;i<nums.size();i++)
         {
             int rem=target-nums[i];
@@ -18,6 +14,7 @@ public:
                 ans.push_back(mp[rem]);
                 break;
             }
+            mp[nums[i]]=i;
         }
         return ans;
     }
