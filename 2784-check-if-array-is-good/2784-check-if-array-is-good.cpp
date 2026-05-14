@@ -8,10 +8,7 @@ public:
         for(int i: nums)
         {
             mp[i]++;
-        }
-        for(int i=1;i<mx;i++)
-        {
-            if(mp[i]!=1) return false;
+            if(i<mx && mp[i]!=1) return false;
         }
         return mp[mx]==2;
     }
