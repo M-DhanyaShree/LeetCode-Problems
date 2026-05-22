@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0050-powx-n) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0018-4sum) |
 | [0283-move-zeroes](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
