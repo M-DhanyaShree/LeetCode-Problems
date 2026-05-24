@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [2784-check-if-array-is-good](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
