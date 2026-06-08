@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 ## Math
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
