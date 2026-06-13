@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3838-weighted-word-mapping](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
 |  |
 | ------- |
@@ -206,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3838-weighted-word-mapping](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
