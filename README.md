@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
