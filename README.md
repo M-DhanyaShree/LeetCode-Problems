@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1652-defuse-the-bomb](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
