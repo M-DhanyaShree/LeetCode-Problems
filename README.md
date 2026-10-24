@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0136-single-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
