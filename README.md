@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
