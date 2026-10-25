@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3945-digit-frequency-score](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3668-restore-finishing-order](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
