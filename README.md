@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1254-number-of-closed-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1652-defuse-the-bomb](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1652-defuse-the-bomb](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 ## Greedy
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 ## Memoization
@@ -375,4 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
