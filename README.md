@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
