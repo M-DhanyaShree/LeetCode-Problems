@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2784-check-if-array-is-good](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
