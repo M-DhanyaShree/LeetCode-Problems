@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1254-number-of-closed-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1652-defuse-the-bomb](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2784-check-if-array-is-good](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
