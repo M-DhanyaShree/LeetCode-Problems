@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0224-basic-calculator) |
