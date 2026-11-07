@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 ## Boyer–Moore Majority Vote Algorithm
