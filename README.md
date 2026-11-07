@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Prefix Sum
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0090-subsets-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
