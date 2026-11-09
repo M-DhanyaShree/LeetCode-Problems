@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0072-edit-distance) |
@@ -489,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0051-n-queens) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
