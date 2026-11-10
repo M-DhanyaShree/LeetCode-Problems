@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3668-restore-finishing-order](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
