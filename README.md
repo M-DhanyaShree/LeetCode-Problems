@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1652-defuse-the-bomb](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Longest Common Subsequence
