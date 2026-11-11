@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1652-defuse-the-bomb](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Longest Common Subsequence
 |  |
