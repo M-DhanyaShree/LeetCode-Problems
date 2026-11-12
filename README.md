@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1652-defuse-the-bomb](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
