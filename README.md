@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -552,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
