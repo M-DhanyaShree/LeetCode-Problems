@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0684-redundant-connection) |
@@ -584,4 +587,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
