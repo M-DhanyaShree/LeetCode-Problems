@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0200-number-of-islands) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0494-target-sum) |
