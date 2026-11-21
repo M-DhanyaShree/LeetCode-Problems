@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0819-most-common-word) |
+| [0875-koko-eating-bananas](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0875-koko-eating-bananas](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
