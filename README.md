@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
@@ -629,4 +630,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
