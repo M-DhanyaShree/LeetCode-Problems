@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Memoization
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -650,4 +654,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
