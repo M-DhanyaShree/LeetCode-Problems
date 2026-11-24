@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0518-coin-change-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -641,10 +645,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
@@ -655,4 +661,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1025-divisor-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
