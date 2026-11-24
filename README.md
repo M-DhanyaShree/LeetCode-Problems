@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1025-divisor-game) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0464-can-i-win](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0139-word-break) |
+| [0464-can-i-win](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0464-can-i-win](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0464-can-i-win) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -653,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0292-nim-game) |
+| [0464-can-i-win](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1025-divisor-game) |
 ## Nim Game
@@ -676,4 +681,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
