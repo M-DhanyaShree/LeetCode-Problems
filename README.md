@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
@@ -702,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
