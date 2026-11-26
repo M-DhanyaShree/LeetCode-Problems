@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2747-count-zero-request-servers](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Linked List
 |  |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1046-last-stone-weight) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bucket Sort
 |  |
