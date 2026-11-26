@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [1046-last-stone-weight](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bucket Sort
 |  |
