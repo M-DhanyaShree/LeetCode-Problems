@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0621-task-scheduler) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0502-ipo](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/M-DhanyaShree/LeetCode-Problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
